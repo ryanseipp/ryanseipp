@@ -5,4 +5,8 @@ I'm a fullstack software engineer working with ASP.NET Core and React by day. He
 - Kernel-level APIs with io_uring and epoll: [iouring-test](https://github.com/ryanseipp/iouring-test)
 - Configuring neovim and linux: [dotfiles](https://github.com/ryanseipp/dotfiles)
 
-Currently building with Rust 🦀 and Zig ⚡
+#### Language templates
+- [Go](https://github.com/ryanseipp/go-chi-api) (wip)
+- [ASP.NET](https://github.com/ryanseipp/dotnet-aot-api) Native AOT (wip)
+
+Currently building with Rust 🦀
