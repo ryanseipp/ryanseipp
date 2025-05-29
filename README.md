@@ -12,4 +12,4 @@ Prior learning projects include:
 - Testing the performance of io_uring vs epoll: [iouring-test](https://github.com/ryanseipp/iouring-test)
 - Building a simple HTTP server in Rust: [rask-old](https://github.com/ryanseipp/rask-old)
 
-Currently building with Rust and Go.
+Currently building with Kubernetes, Crossplane, Rust, and Go.
