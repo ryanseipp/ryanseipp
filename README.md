@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a fullstack software engineer working with ASP.NET Core and React by day.
+I'm a platform engineer operating Kubernetes environments by day.
 
 Here, you'll find me working on:
 
