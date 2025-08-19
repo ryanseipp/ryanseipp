@@ -9,6 +9,7 @@ Here, you'll find me working on:
 
 Prior learning projects include:
 
+- GitOps platform with a hello-world Rust App & one command bootstrap [gitops-app-platform](https://github.com/ryanseipp/gitops-app-platform)
 - Testing the performance of io_uring vs epoll: [iouring-test](https://github.com/ryanseipp/iouring-test)
 - Building a simple HTTP server in Rust: [rask-old](https://github.com/ryanseipp/rask-old)
 
